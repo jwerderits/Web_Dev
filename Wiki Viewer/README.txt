@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/jwerderits/pen/eeeLGq.
-
+Searches Wikipedia articles, includes custom animation and predictive search.
  
