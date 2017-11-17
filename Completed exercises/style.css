@@ -1,0 +1,25 @@
+td{
+    width: 100px;
+    height: 100px;
+}
+
+table{
+    margin:auto;
+}
+
+h1{
+    text-align: center;
+}
+.col{
+    border: solid 2px black;
+    border-width: 0 2px;
+}
+
+.row{
+    border:solid 2px black;
+    border-width: 2px 0;
+}
+
+.middle{
+    border:solid 2px black;
+}
